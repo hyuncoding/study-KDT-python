@@ -1,7 +1,7 @@
 # PYTHON 
 > KDT 과정에서 공부한 Python 관련 내용입니다.
 
-# ***INTRO***
+# ***1. INTRO***
 
 ## Python - 프로그래밍 언어
 
@@ -81,7 +81,7 @@
 
 <hr/>
 
-# ***variable***
+# ***2. variable***
 
 ## 변수 - 저장공간  
 
@@ -187,7 +187,7 @@
 
 <hr/>
 
-# ***operator***
+# ***3. operator***
 
 ## 연산자 - 기능이 있는 특수문자  
 
@@ -266,7 +266,7 @@
 
 <hr/>
 
-# ***input***
+# ***4. input***
 
 ## 입력 상태  
 
@@ -282,7 +282,7 @@
 
 <hr/>
 
-# ***control_statement***
+# ***5. control_statement***
 
 ## 제어문  
 
@@ -326,7 +326,7 @@
 
 <hr/>
 
-# ***collection***
+# ***6. collection***
 
 ## list  
 
@@ -419,7 +419,7 @@
 
 <hr/>
 
-# ***function***
+# ***7. function***
 
 ## 함수 - 이름 뒤에 소괄호, 작성된 코드의 주소값을 담고 있는 저장공간  
 
@@ -490,7 +490,7 @@
  
 <hr/>
 
-# ***closure***
+# ***8. closure***
 
 ## 클로저(closure, 폐쇄): 함수 안에 함수, 모듈화  
 
@@ -515,7 +515,7 @@
 
 <hr/>
 
-# ***decorator***
+# ***9. decorator***
 
 ## 데코레이터(장식)  
 
@@ -544,7 +544,7 @@
 
 <hr/>
 
-# ***class***
+# ***10. class***
 
 ## 클래스 - 반  
 
@@ -592,7 +592,7 @@
 
 <hr/>
 
-# ***inheritance(상속)***
+# ***11. inheritance(상속)***
 
 ## 상속  
 
@@ -652,7 +652,7 @@
 
 <hr/>
 
-# ***magic_method***
+# ***12. magic_method***
 
 ## 매직 메소드  
 
@@ -702,7 +702,7 @@
 
 <hr/>
 
-# ***module***
+# ***13. module***
 
 ## 모듈(부품)  
 
@@ -728,7 +728,7 @@
 
 <hr/>
 
-# ***API***
+# ***14. API***
 
 ## API(Application Programming Interface)  
 
@@ -746,7 +746,7 @@
 
 <hr/>
 
-# ***exception***
+# ***15. exception***
 
 ## 예외 처리
 
@@ -801,7 +801,7 @@
 
 <hr/>
 
-# ***file(파일 입출력)***
+# ***16. file(파일 입출력)***
 
 ## 파일  
 
@@ -828,7 +828,7 @@
 
 <hr/>
 
-# ***generator***
+# ***17. generator***
 
 ## 제너레이터(Generator)  
 
