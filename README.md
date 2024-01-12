@@ -1,6 +1,8 @@
 # PYTHON 
 > KDT 과정에서 공부한 Python 관련 내용입니다.
 
+<hr/>
+
 # ***1. INTRO***
 
 ## Python - 프로그래밍 언어
