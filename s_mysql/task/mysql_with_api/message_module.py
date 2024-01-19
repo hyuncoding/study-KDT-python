@@ -33,5 +33,5 @@ trans_again_message = '다른 문장을 추가로 번역하시겠습니까? (Y/n
 # OCR 서비스
 
 ocr_welcome_message = '어서오세요. 이미지 텍스트 추출기입니다.'
-ocr_choice_message = '1. 텍스트 추출하기\n2. 나가기\n'
+ocr_choice_message = '1. 텍스트 추출하기\n2. 추출 내역 조회하기\n3. 나가기\n'
 ocr_input_message = '텍스트를 추출하실 이미지의 링크를 입력해주세요.\n>>> '

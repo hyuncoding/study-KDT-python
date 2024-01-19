@@ -143,3 +143,8 @@ def insert_image_info(image_url, image_text):
               values (%s, %s)"
     params = (image_url, image_text)
     save(query, params)
+
+
+def show_all_translate_records():
+    query = "select id, image_name, image_text from tbl_image"
+    return find_all(query)

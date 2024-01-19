@@ -129,9 +129,17 @@ if __name__ == '__main__':
             # DEBUG FALSE
             # url = input(ocr_input_message).rstrip()
             # DEBUG TRUE
-            url = "https://thumb.mt.co.kr/06/2012/02/2012021613230156226_1.jpg/dims/optimize/)"
+            url = "https://thumb.mt.co.kr/06/2012/02/2012021613230156226_1.jpg/dims/optimize/"
             result = get_text_with_ocr(url)
             print(f"텍스트 추출 결과: \n{result}")
             insert_image_info(url, result)
+        elif ocr_choice == 2:
+            results = show_all_translate_records()
+            if not results:
+                print("조회된 내역이 없습니다.")
+                continue
+            for record in results:
+                for key in record:
+                    print(f"{key}: {record[key]}")
         else:
             break
